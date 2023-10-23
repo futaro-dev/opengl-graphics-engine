@@ -1,0 +1,28 @@
+#############################################
+#
+#   Some important information about the coursework:
+#   Student Name: Furkan Baki
+#   Student UB Number: 19001214
+#   
+#   I want to write a disclaimer to say that the majority of the coursework was code modified from: 
+#   https://learnopengl.com/ 
+#
+#   I followed along through the site's tutorials to produce this piece of work,  
+#   while modifiying where necessary to fit the coursework specification.
+#
+#   I included my libs and includes folders in the ZIP, just incase it was necessary for the
+#   program to run.
+#
+#   As an added precaution, my Linker/Input additional dependencies are:
+#   - glfw/glfw3.lib
+#   - opengl32.lib
+#
+#############################################
+#
+#   Controls:
+#   Camera position : WASD
+#   Camera movement: Mouse
+#   Camera zoom : Mousewheel
+#   Flashlight : F
+#
+#############################################
